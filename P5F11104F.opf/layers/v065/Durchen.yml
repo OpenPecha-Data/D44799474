@@ -1,10 +1,10 @@
-id: cc62ab49face43c4b8ea403f4ad13f95
+id: 7ff3195bed30423b878ce7f23958a60d
 annotation_type: Durchen
 revision: '00001'
 annotations:
-  0f5a476499634e089e23ffd0f3b4e5ab:
+  53a41c49ecf94a638c870f52b2338149:
     span:
-      start: 3531
-      end: 4437
+      start: 3537
+      end: 4487
 local_ids:
-  0f5a476499634e089e23ffd0f3b4e5ab: 200000
+  53a41c49ecf94a638c870f52b2338149: 200000
